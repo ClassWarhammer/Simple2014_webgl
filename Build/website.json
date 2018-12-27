@@ -1,6 +1,6 @@
 {
-"companyName": "DefaultCompany",
-"productName": "WebglGame",
+"companyName": "Unity Technologies Japan",
+"productName": "UnityChan CRS",
 "dataUrl": "website.data.unityweb",
 "wasmCodeUrl": "website.wasm.code.unityweb",
 "wasmFrameworkUrl": "website.wasm.framework.unityweb",
@@ -8,6 +8,5 @@
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
-"backgroundColor": "#231F20",
-"cacheControl": {"default": "must-revalidate"}
+"backgroundColor": "#231F20"
 }
